@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+ 
+#Uncomment below and edit path to scilua.lua
+#luajit /path/to/__bin/scilua.lua
